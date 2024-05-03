@@ -86,32 +86,10 @@ select = [
     "PIE",
     "T20",
     "PYI",
-    "PT",
-    "Q",
-    "RSE",
-    "SLF",
-    "SLOT",
-    "SIM",
-    "TID",
-    "TCH",
-    "INT",
-    "PTH",
-    "TD",
-    "PERF",
-    # "FURB",
-    "LOG",
-    "RUF",
 ]
 ignore = [
     "COM812",
     "ISC001",
-    # TODO: enable this
-    "TCH001",
-    "TCH002",
-    "TCH003",
-    "TD002",
-    "TD003",
-    "RUF012",
 ]
 
 [tool.pytest.ini_options]
