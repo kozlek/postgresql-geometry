@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "postgresql-geometry"
-version = "0.1.0"
+version = "0.1.1"
 description = "PostgreSQL geometry types for python"
 authors = [
     "Thomas Berdy <thomas.berdy@outlook.com>",
