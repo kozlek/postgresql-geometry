@@ -2,9 +2,18 @@
 name = "postgresql-geometry"
 version = "0.1.0"
 description = "PostgreSQL geometry types for python"
-authors = ["Thomas Berdy <thomas.berdy@outlook.com>"]
+authors = [
+    "Thomas Berdy <thomas.berdy@outlook.com>",
+]
 license = "MIT"
 readme = "README.md"
+homepage = "https://github.com/kozlek/postgresql-geometry"
+repository = "https://github.com/kozlek/postgresql-geometry"
+keywords = [
+    "django",
+    "geometry",
+    "postgresql",
+]
 
 [tool.poetry.dependencies]
 python = "^3.11"
